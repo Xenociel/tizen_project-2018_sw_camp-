@@ -1,8 +1,11 @@
 # tizen_project-2018_sw_camp-
 
-* typo
+* typo  
+-https://github.com/Samsung/TizenRT/pull/2422
   
-* coding style
+* coding style  
+-https://github.com/Samsung/TizenRT/pull/2406  
+-https://github.com/Samsung/TizenRT/pull/2407
 
 * build
 
